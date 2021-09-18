@@ -1,0 +1,1 @@
+python3 generator_cnn.py
